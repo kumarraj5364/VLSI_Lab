@@ -1,2 +1,2 @@
-# myLab
-Contains files for myLab purpose
+# VLSI_Lab
+Contains files for VLSI_Lab purpose
